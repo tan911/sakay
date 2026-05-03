@@ -1,5 +1,5 @@
 {
-  "name": "cebu-jeepney-decoder",
+  "name": "sakay",
   "version": "1.0.0",
   "description": "A Cebu-based jeepney route decoder and guide that helps users understand jeep codes and find the best routes from point A to B.",
   "main": "index.js",
