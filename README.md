@@ -9,7 +9,7 @@ A simple web app that helps you find which jeepney to ride in Cebu City based on
 ## 📦 Project Structure
 
 ```
-cebu-jeepney-decoder/
+sakay/
 ├── apps/
 │   ├── api/   → Backend (Hono + Cloudflare Workers)
 │   └── web/   → Frontend (Next.js) — coming soon
@@ -29,8 +29,8 @@ cebu-jeepney-decoder/
 ### Install
 
 ```bash
-git clone https://github.com/yourusername/cebu-jeepney-decoder.git
-cd cebu-jeepney-decoder
+git clone https://github.com/tan911/sakay.git
+cd sakay
 pnpm install
 ```
 
