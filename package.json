@@ -1,0 +1,23 @@
+{
+  "name": "cebu-jeepney-decoder",
+  "version": "1.0.0",
+  "description": "A Cebu-based jeepney route decoder and guide that helps users understand jeep codes and find the best routes from point A to B.",
+  "main": "index.js",
+  "scripts": {
+    "dev:api": "turbo run dev --filter=api",
+    "format:lint": "biome check .",
+    "format:lint:fix": "biome check . --write"
+  },
+  "keywords": [
+    "jeepney code decoder",
+    "cebu jeepney code",
+    "routes"
+  ],
+  "author": "Jovan Lanutan",
+  "license": "ISC",
+  "packageManager": "pnpm@10.22.0",
+  "devDependencies": {
+    "@biomejs/biome": "2.4.14",
+    "turbo": "^2.9.7"
+  }
+}

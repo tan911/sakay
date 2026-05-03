@@ -1,0 +1,13 @@
+{
+  "name": "jeepney-decoder-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-05-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "jeepney_decoder_db",
+      "database_name": "jeepney-decoder-db",
+      "database_id": "267a06ee-cdbd-4f17-846f-29dc6e56e52c"
+    }
+  ]
+}

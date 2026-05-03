@@ -1,0 +1,30 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API for decoding cebu jeepney code routes.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "cf-typegen": "wrangler types"
+  },
+  "keywords": [
+    "api",
+    "code",
+    "decoder",
+    "backend"
+  ],
+  "author": "Jovan Lanutan",
+  "license": "ISC",
+  "packageManager": "pnpm@10.22.0",
+  "dependencies": {
+    "@hono/zod-openapi": "^1.3.0",
+    "hono": "^4.12.16",
+    "zod": "^4.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.87.0"
+  }
+}
