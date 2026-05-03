@@ -1,4 +1,4 @@
-# API — Cebu Jeepney Decoder
+# SAKAY API 
 
 Backend powered by [Hono](https://hono.dev/) running on Cloudflare Workers with D1 as the database.
 
