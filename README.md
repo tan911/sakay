@@ -1,4 +1,4 @@
-# 🚌 Cebu Jeepney Decoder
+# Sakay (Jeepney decoder)
 
 > Find the right jeepney — no more guessing.
 
